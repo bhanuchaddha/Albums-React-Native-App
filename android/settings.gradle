@@ -1,0 +1,3 @@
+rootProject.name = 'AlbumsReactNativeApp'
+
+include ':app'
