@@ -10,35 +10,35 @@ export default class AlbumList extends Component {
                 title: 'Title 1',
                 artist: 'Artist 1',
                 thumbnail: 'http://lorempixel.com/100/100/',
-                uri: 'http://lorempixel.com/1500/1500/',
+                url: 'https://www.flipkart.com/gopro-hero-sports-action-camera/p/itmf3s4abpfgawhc',
                 image: 'http://lorempixel.com/1500/1500/'
             },
             {
                 title: 'Title 2',
                 artist: 'Artist 2',
                 thumbnail: 'http://lorempixel.com/100/100/',
-                uri: 'http://lorempixel.com/1500/1500/',
+                url: 'https://www.flipkart.com/gopro-hero-sports-action-camera/p/itmf3s4abpfgawhc',
                 image: 'http://lorempixel.com/1500/1500/'
             },
             {
                 title: 'Title 3',
                 artist: 'Artist 3',
                 thumbnail: 'http://lorempixel.com/100/100/',
-                uri: 'http://lorempixel.com/1500/1500/',
+                url: 'https://www.flipkart.com/gopro-hero-sports-action-camera/p/itmf3s4abpfgawhc',
                 image: 'http://lorempixel.com/1500/1500/'
             },
             {
                 title: 'Title 4',
                 artist: 'Artist 4',
                 thumbnail: 'http://lorempixel.com/100/100/',
-                uri: 'http://lorempixel.com/1500/1500/',
+                url: 'https://www.flipkart.com/gopro-hero-sports-action-camera/p/itmf3s4abpfgawhc',
                 image: 'http://lorempixel.com/1500/1500/'
             },
             {
                 title: 'Title 5',
                 artist: 'Artist 5',
                 thumbnail: 'http://lorempixel.com/100/100/',
-                uri: 'http://lorempixel.com/1500/1500/',
+                url: 'https://www.flipkart.com/gopro-hero-sports-action-camera/p/itmf3s4abpfgawhc',
                 image: 'http://lorempixel.com/1500/1500/'
             },
 

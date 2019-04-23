@@ -17,7 +17,7 @@ export default class App extends Component {
     return (
       // to make it scrollable
       <View style={{ flex: 1 }}>
-        <Header headerText={'Albums!'} />
+        <Header headerText={'Albums'} />
         <AlbumList />
       </View>
     );
